@@ -10,7 +10,7 @@ A fun and interactive web-based birthday card built with HTML, CSS, and JavaScri
 * Birthday music
 
 ## Demo
-
+https://amar-webdev.github.io/BirthdayWishes/
 
 ## How to Run It
 
