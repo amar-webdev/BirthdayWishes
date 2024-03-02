@@ -4,7 +4,7 @@ A fun and interactive web-based birthday card built with HTML, CSS, and JavaScri
 
 ## Features
 
-* Personalized birthday message
+* birthday message
 * Festive animations
 * Customizable design elements 
 * Birthday music
